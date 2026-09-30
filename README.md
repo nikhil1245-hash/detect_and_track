@@ -2,7 +2,7 @@
 
 Webcam or video file → YOLOv8 object detection → SORT tracking → bounding boxes with class labels and persistent track IDs, displayed live.
 
-![example output](bus_annotated.jpg)
+![example output]"C:\Users\dell\Downloads\WhatsApp Image 2026-09-30 at 11.03.46 AM.jpeg"
 
 ## Setup
 
